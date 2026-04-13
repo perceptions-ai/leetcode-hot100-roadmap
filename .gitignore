@@ -1,0 +1,20 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled
+*.class
+*.o
+*.exe
+*.out
+__pycache__/
+*.pyc
+
+# LeetCode plugin cache
+../cache/
